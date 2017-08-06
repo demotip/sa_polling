@@ -1,0 +1,6 @@
+,routing_metadata,transport_type,to_addr,from_addr,content,in_reply_to
+0,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27735018084,,
+1,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27735018084,vipvoice2014,"Welcome to Voting is Power! Start by choosing your language:
+1. English
+2. Afrikaans
+3. Zulu",0007b3298c2c45d1a217904669f64a2b

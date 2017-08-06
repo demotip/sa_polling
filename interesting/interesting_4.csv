@@ -1,0 +1,322 @@
+,routing_metadata,transport_type,to_addr,from_addr,content,in_reply_to
+0,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+1,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Welcome to Voting is Power! Start by choosing your language:
+1. English
+2. Afrikaans
+3. Zulu",f1c61a5e39ca4c6b811b76584d167bc5
+2,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+3,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Welcome to Voting is Power! Start by choosing your language:
+1. English
+2. Afrikaans
+3. Zulu",779ed6e5510c4799bde74cb06512098f
+4,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+5,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Elections! Does ur vote matter?
+1. YES every vote matters
+2. NO. I'll vote anyway
+3. NO. I'm NOT voting
+4. I'm NOT REGISTRD to vote
+5. I'm 2 YOUNG to vote",5b4e4fda546e49d0adeee7bbdec5f91c
+6,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+7,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Please accept the terms and conditions to get started
+1. Accept & Join
+2. Read t&c
+3. Quit",140a21e5d2e247e7bf497a229a6b399b
+8,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+9,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Welcome to VIP!
+1. Answer & win!
+2. VIP Quiz
+3. Report an Election Activity in ur Community
+4. View VIP results
+5. What's up?
+6. About
+7. End",d65b6079b10b4d5bb67a0957c4893d0f
+10,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+11,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"I am...
+1. Male
+2. Female",5d6b541e52b2486da316ef9f14151883
+12,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,2,
+13,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How old are you?
+1. u15
+2. 15-17
+3. 18-29
+4. 30-39
+5. 40-49
+6. 50+",0001f0b0141f46d4bb93be3e65b27ca8
+14,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,3,
+15,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Did you vote in the 2009 election?
+1. Yes
+2. No, could not/was not registered
+3. No, did not want to
+4. No, other
+5. Skip",dd4b10cc09354903aa2cac3c99cf9d8b
+16,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,2,
+17,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"I am...
+1. Black African
+2. Coloured
+3. Indian/Asian
+4. White
+5. Other
+6. Skip",f712171299a34311a15365ebee170179
+18,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+19,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Please give us your cellphone number as you stand a chance to win airtime!,8a29c6d8ad5043fa922256c11dba966d
+20,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,0842962549,
+21,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Thank you for telling VIPa bit more about yourself! If you are a lucky winner your airtime will be sent to you shortly.
+1. Main Menu",1e176cbe5b5648f29b10dadc71b67265
+22,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+23,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Welcome to VIP!
+1. Answer & win!
+2. VIP Quiz
+3. Report an Election Activity in ur Community
+4. View VIP results
+5. What's up?
+6. About
+7. End",2ef484eef89c479290e7c336bc2e2bde
+24,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,2,
+25,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How easy is it for your neighbors to find out if you voted?
+1. Very easy
+2. Somewhat easy
+3. Somewhat difficult
+4. Very difficult
+5. Skip",ce6f48940af149a29fd46880cfeeca58
+26,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+27,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"During the past year, have you attended a demonstration or protest?
+1. Yes, many
+2. Yes, a few
+3. No
+4. Skip",74b9782130de46938d3d38dacc391d23
+28,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+29,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"During the past two weeks, have you attended a campaign rally?
+1. Yes
+2. No
+3. Skip",7c025f937a064cf087a02bb145e211e9
+30,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+31,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Which party has contacted you the most during this election campaign?
+1. None, I have not been contacted
+2. ANC
+3. Agang
+4. COPE
+5. DA
+6. EFF
+7. IFP
+8. Other
+9. Skip",383bb5b2c42e4b7bb58030e1d9482633
+32,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,6,
+33,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Would you like to continue answering questions? There are 12 in total.
+1. Continue
+2. Main Menu",0fc61c049cb344458d48c3035e4f9e99
+34,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+35,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How do you rate the overall performance of your local government councillor?
+1. Excellent
+2. Good
+3. Just Fair
+4. Poor
+5. Skip",544219a8437242b3a7cfe8e0d509afd4
+36,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,3,
+37,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How likely is it that you will vote in the upcoming election?
+1. Very likely
+2. Somewhat likely
+3. Somewhat unlikely
+4. Very unlikely
+5. Unsure
+6. Skip",b467299909494c14a5de1e2b26e07630
+38,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+39,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Are you registered to vote in the upcoming elections?
+1. Yes
+2. No
+3. Unsure
+4. Skip",a531e784d04a40dd92f76e23cae2f3d3
+40,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+41,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"If your community has had demonstrations or protests in the last year, were they violent?
+1. Yes
+2. No
+3. Not applicable
+4. Skip",a6cf754cfe5d47e18d011df6f231c883
+42,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,2,
+43,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Would you like to continue answering questions? There are 12 in total.
+1. Continue
+2. Main Menu",686782af4a464a9d81681c3c554ab12a
+44,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+45,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"During the past year, has your community had demonstrations or protests?
+1. Yes, several times
+2. Yes, once or twice
+3. No
+4. Skip",9c7c1605335b4885842adc6ff90cb864
+46,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+47,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Which political party do you feel close to?
+1. ANC
+2. Agang
+3. COPE
+4. DA
+5. EFF
+6. IFP
+7. Other
+8. I don't feel close to a party
+9. Skip",d0f97f964fc24ad188e2bad1e489f5df
+48,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,5,
+49,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How do you rate the overall performance of President Zuma?
+1. Excellent
+2. Good
+3. Just Fair
+4. Poor
+5. Skip",d73d4eab56e2449497b301a1b5b5fb34
+50,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,4,
+51,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"People in my neighborhood look down on those who do not vote:
+1. Strongly agree
+2. Somewhat agree
+3. Somewhat disagree
+4. Strongly disagree
+5. Skip",0dfc388114094ca399540815d7644a9a
+52,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,2,
+53,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Thanks, u have answered all the questions in this section.
+1. Main Menu",3cc63e246f2a4770ac81cde30d6550b0
+54,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+55,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Welcome to VIP!
+1. Answer & win!
+2. VIP Quiz
+3. Report an Election Activity in ur Community
+4. View VIP results
+5. What's up?
+6. About
+7. End",2a9bd252b79b40b7a3fb5a430c0242eb
+56,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,5,
+57,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Sometimes not voting is the best way to express your political preferences:
+1. Strongly agree
+2. Somewhat agree
+3. Somewhat disagree
+4. Strongly disagree
+5. Skip",5acdc003defc4bbc81b9f0fabf7c3fd8
+58,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,4,
+59,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How much do you trust the ANC?
+1. A lot
+2. Some
+3. Not much
+4. Not at all
+5. No opinion
+6. Skip",0ab9fb13fbc94448814a532c74d6bcfe
+60,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,3,
+61,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How much do you trust the Economic Freedom Fighters (EFF)?
+1. A lot
+2. Some
+3. Not much
+4. Not at all
+5. No opinion
+6. Skip",6bcff80bb804405b880eeb00c76f52c6
+62,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+63,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"During the past two weeks, how frequently have campaign rallies occurred in your community?
+1. Often
+2. Several times
+3. Once or twice
+4. Never
+5. Skip",38207254069140dea9b6a6bb2a56258f
+64,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+65,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Would you like to continue answering questions? There are 10 in total.
+1. Continue
+2. Main Menu",695fb60c65b34607950a4bbcce1216fd
+66,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+67,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How much do you trust the Democratic Alliance (DA)?
+1. A lot
+2. Some
+3. Not much
+4. Not at all
+5. No opinion
+6. Skip",01cc676abbeb4331af65752a0b2966fb
+68,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,4,
+69,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"In SA, its sometimes necessary 2 use violence 4 a just cause:
+1. Strongly agree
+2. Somewhat agree
+3. Somewhat disagree
+4. Strongly disagree
+5. Skip",55042bf1f4444eb682a41701ea46234a
+70,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,4,
+71,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"During the past 2 weeks, how often have party agents gone door to door in ur community ?
+1. Often
+2. Several times
+3. Once or twice
+4. Never
+5. Skip",a92a699eebfc40738fa3dfab59cbce52
+72,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+73,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"How satisfied are you with the way democracy works in South Africa?
+1. Very satisfied
+2. Somewhat satisfied
+3. Dissatisfied
+4. Very dissatisfied
+5. Skip",fb618d9e7a954ece97657f12db661f92
+74,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,3,
+75,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Would you like to continue answering questions? There are 10 in total.
+1. Continue
+2. Main Menu",40faf5eb42fe45d7a3d3a359126fd47e
+76,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+77,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"During the past two weeks, how frequently have party agents intimidated voters in your community?
+1. Often
+2. Several times
+3. Once or twice
+4. Never
+5. Skip",d01af1757fce422e8199742b70d3014d
+78,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,2,
+79,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"During the past year, how often have u or anyone in ur family gone without enough food to eat?
+1. Never
+2. Once or twice
+3. Sometimes
+4. Many times
+5. Always
+6. Skip",2f3288ba7eb84611b8065b596af9d0c1
+80,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,3,
+81,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Thanks, u have answered all the questions in this section.
+1. Main Menu",580db96fb4304706914bfedaa540c798
+82,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,1,
+83,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Welcome to VIP!
+1. Answer & win!
+2. VIP Quiz
+3. Report an Election Activity in ur Community
+4. View VIP results
+5. What's up?
+6. About
+7. End",b34d3eddb470410880b66dfb1d80c1bc
+84,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,3,
+85,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Report type:
+1. Party going door-to-door
+2. Party intimidating voters
+3. Party distributing food/money
+4. Campaign rally
+5. Campaign violence
+6. Protest/Demonstrtn",6e4265928fef424d9ec154dbe986c009
+86,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+87,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Report type:
+1. Party going door-to-door
+2. Party intimidating voters
+3. Party distributing food/money
+4. Campaign rally
+5. Campaign violence
+6. Protest/Demonstrtn",ce4a45d4372941028cb6501bf9bd879d
+88,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+89,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Report type:
+1. Party going door-to-door
+2. Party intimidating voters
+3. Party distributing food/money
+4. Campaign rally
+5. Campaign violence
+6. Protest/Demonstrtn",06b20fb633334fefb17781123ebcdc32
+90,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+91,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,"Report type:
+1. Party going door-to-door
+2. Party intimidating voters
+3. Party distributing food/money
+4. Campaign rally
+5. Campaign violence
+6. Protest/Demonstrtn",8f48f3f3c9e44494b035a13295cdd759
+92,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,3,
+93,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,What is the title of your report?,23c4a8b2faaa4728b1256a1de54c4c0d
+94,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,Never mind,
+95,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Where did this event happen? Please be as specific as possible and give address and city.,6db55a0885654af4929adfeabea3b506
+96,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+97,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Where did this event happen? Please be as specific as possible and give address and city.,37f679a27f11443faddaa1b434242db1
+98,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+99,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Where did this event happen? Please be as specific as possible and give address and city.,38a451dbd1484735b4f14c0d97417644
+100,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+101,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Where did this event happen? Please be as specific as possible and give address and city.,3a97e8376baa41bebcbc06de95c9325d
+102,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+103,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Where did this event happen? Please be as specific as possible and give address and city.,0ae18ae441cb41a49119df25cb3f6cf6
+104,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+105,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Where did this event happen? Please be as specific as possible and give address and city.,e4db40b2867343c7b630ec325e244f3c
+106,"{u'go_hops': [[[u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default']]], u'endpoint_name': u'default'}",mxit,vipvoice2014,27729505793,,
+107,"{u'go_hops': [[[u'CONVERSATION:jsbox:5fc3013723dd4f7fab36d72c1c1293aa', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,27729505793,vipvoice2014,Where did this event happen? Please be as specific as possible and give address and city.,d0e06735ce094ddfb8a0bc33e47ed899
