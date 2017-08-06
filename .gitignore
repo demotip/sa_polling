@@ -1,2 +1,4 @@
 *.ipynb
 .idea/*
+*.csv
+.ipynb_checkpoints/*
