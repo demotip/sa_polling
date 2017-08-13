@@ -1,0 +1,8 @@
+How satisfied are you
+with the way democracy
+works in South Africa?
+1. Very satisfied
+2. Somewhat satisfied
+3. Dissatisfied
+4. Very dissatisfied
+5. Skip
