@@ -7,7 +7,7 @@ TIME_STAMP_FORMAT = "%Y-%m-%d %H:%M:%S.%f"
 MONGO_HOST = "206.12.98.21"
 MONGO_DB = "SA_Voting_Data"
 MONGO_USER = "rsampana"
-MONGO_KEY = "/home/rsampana/.ssh/id_rsa"
+MONGO_KEY = "/Users/RyanSampana/.ssh/id_rsa"
 
 with SSHTunnelForwarder(
     MONGO_HOST,
