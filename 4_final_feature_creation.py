@@ -14,6 +14,7 @@ conversations with the system.
 
 This document outputs a pickle file per conversation in the features subdirectory.
 
+
 """
 def mongo_connect():
     """
@@ -29,8 +30,8 @@ def mongo_connect():
 
     name = 'test'
     db = conn[name]
-    conversations = db.clean_conversation_new
-    raw = db.conversations_collection
+    conversations = db.clean_conversation
+    raw = db.raw_data_collection
     features = db.features_collection
 
     return conn, db, conversations, raw, features
