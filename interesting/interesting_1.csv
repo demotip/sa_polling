@@ -1,6 +1,0 @@
-,routing_metadata,transport_type,to_addr,from_addr,content,in_reply_to
-0,"{u'go_hops': [[[u'CONVERSATION:bulk_message:6b0c61c98fc34c148df043cf2edd5377', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:longcode:default10316', u'default']]], u'endpoint_name': u'default'}",sms,+27782971124,None,"Make a choice, have a voice, vote!",
-1,"{u'go_hops': [[[u'TRANSPORT_TAG:longcode:default10316', u'default'], [u'BILLING:INBOUND', u'default']], [[u'BILLING:OUTBOUND', u'default'], [u'CONVERSATION:bulk_message:6b0c61c98fc34c148df043cf2edd5377', u'default']]], u'endpoint_name': u'default'}",sms,,+27782971124,I  don't vote,
-2,{},,None,+27782971124,,
-3,"{u'go_hops': [[[u'CONVERSATION:dialogue:2ed74929fdb846298738125d45961004', u'default'], [u'BILLING:OUTBOUND', u'default']], [[u'BILLING:INBOUND', u'default'], [u'TRANSPORT_TAG:di_mxit:vipvoice2014', u'default']]], u'endpoint_name': u'default'}",mxit,+27782971124,None,"Thanks for joining VIP:Voice 2014 and reporting on Election activity! Let us know what u thought by answering a few questions & stand a chance to WIN airtime! Reply 1 to begin.
-1. Begin",
