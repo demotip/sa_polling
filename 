@@ -1,0 +1,67 @@
+Revert "affdsfded scripts and notebook"
+
+This reverts commit 1d90acda506435f6879c4125bf14278956b324e1.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    channel_switching.ipynb
+#	deleted:    clean_conversation.py
+#	deleted:    final_feature_creation.py
+#	deleted:    make_conversation_level_collection.py
+#	deleted:    make_feature_csv.py
+#	deleted:    merge_mxit_convos.py
+#	deleted:    sandbox.py
+#
+# Changes not staged for commit:
+#	modified:   .gitignore
+#	deleted:    Analysis to CSV.ipynb
+#	deleted:    ConversationBuild.ipynb
+#	deleted:    Data Exploration.ipynb
+#	deleted:    Final Features.ipynb
+#	deleted:    Finally Merging.ipynb
+#	deleted:    GeneratingBursts.ipynb
+#	deleted:    Visualization.ipynb
+#	deleted:    WHAT WE WANT.ipynb
+#	deleted:    interesting/cleaned_phonenumbers.csv
+#	deleted:    interesting/example_corresponding_ussd.csv
+#	deleted:    interesting/example_found_mxit.csv
+#	deleted:    interesting/interesting_1.csv
+#	deleted:    interesting/interesting_10.csv
+#	deleted:    interesting/interesting_11.csv
+#	deleted:    interesting/interesting_12.csv
+#	deleted:    interesting/interesting_13.csv
+#	deleted:    interesting/interesting_14.csv
+#	deleted:    interesting/interesting_15.csv
+#	deleted:    interesting/interesting_16.csv
+#	deleted:    interesting/interesting_17.csv
+#	deleted:    interesting/interesting_18.csv
+#	deleted:    interesting/interesting_19.csv
+#	deleted:    interesting/interesting_2.csv
+#	deleted:    interesting/interesting_20.csv
+#	deleted:    interesting/interesting_21.csv
+#	deleted:    interesting/interesting_22.csv
+#	deleted:    interesting/interesting_23.csv
+#	deleted:    interesting/interesting_24.csv
+#	deleted:    interesting/interesting_25.csv
+#	deleted:    interesting/interesting_26.csv
+#	deleted:    interesting/interesting_27.csv
+#	deleted:    interesting/interesting_28.csv
+#	deleted:    interesting/interesting_29.csv
+#	deleted:    interesting/interesting_3.csv
+#	deleted:    interesting/interesting_30.csv
+#	deleted:    interesting/interesting_4.csv
+#	deleted:    interesting/interesting_5.csv
+#	deleted:    interesting/interesting_6.csv
+#	deleted:    interesting/interesting_7.csv
+#	deleted:    interesting/interesting_8.csv
+#	deleted:    interesting/interesting_9.csv
+#	deleted:    merge sms mxit.ipynb
+#
+# Untracked files:
+#	.Rhistory
+#
