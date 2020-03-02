@@ -12,6 +12,8 @@ Amongst the most important issues in the original files:
 
 One should keep these issues in mind when looking at the original files. The notebooks are kept in the legacy_code subfolder. The output of this project is analyzed by scripts contained in the pk_main repository on Aaron's github. 
 
+The rejected code subfolder mainly contains code used to explore the content of the database. 
+
 ## Explanation of scripts
 
 Here is an explanation of the various scripts:
