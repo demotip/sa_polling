@@ -24,7 +24,7 @@ def mongo_connect():
     name = 'test'
     db = conn[name]
     raw = db.raw_data_collection
-    clean = db.clean_conversation_new
+    clean = db.clean_conversation
 
     return conn, db, raw, clean
 

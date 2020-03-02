@@ -125,8 +125,7 @@ def main():
 
 client = MongoClient('localhost', 27017)  # local ip and mongo port on remote server
 db = client['test']
-message_collection = db.get_collection('message_collection')
-clean_conversation = db.get_collection('cleaned_conversations')
+clean_conversation = db.get_collection('clean_conversation')
 
 
 if __name__ == "__main__":
