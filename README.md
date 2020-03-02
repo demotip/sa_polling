@@ -16,7 +16,7 @@ One should keep these issues in mind when looking at the original files. The not
 
 Here is an explanation of the various scripts:
 
-- 1_database_loader: This file replaces a set of scripts that were contained on the usb key where Aaron keeps the original data. The file takes the in the data in JSON format and loads them into a mongo database. Running this file requires a computer with AT LEAST 16gb of ram otherwise it will fail to run. Each mongo object loaded into the database is an individual message from the user to the system or the system to the user. 
+- 1_database_loader: This file replaces a set of scripts that were contained on the usb key where Aaron keeps the original data. The file takes in the data in JSON format and loads them into a mongo database. Running this file requires a computer with AT LEAST 16gb of ram otherwise it will fail to run. Each mongo object loaded into the database is an individual message from the user to the system or the system to the user. 
 
 - 2_clean_conversation: Most of Ryan's code relies on using a user's POI to retrieve their message. A POI is a user's phone number, which is treated as a unique id in this project. The POI is not included as a field in the original JSON. It comes from the values found in the "from_addr" field from the original JSON. This file reads in all of the messages in the database, cleans up the phone number so that they appear in a regular format, adds the phone number as a POI and reloads them into a new database on mongo titled "clean_conversation_new". This script runs in roughly 2 days when multiprocessed on Aaron's compute canada cloud computer. 
 
