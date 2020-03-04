@@ -7,7 +7,8 @@ Part of the code in this project was written by Ryan Sampana in 2017. Several is
 Amongst the most important issues in the original files: 
 
 - The code used to load the data only loaded 1/3rd of the data. 
-- The function used to calculate time variables in the original code did not give the appropriate results. 
+- The function used to calculate time variables in the original code did not give the appropriate results.
+- Part of the code was never pushed which made it impossible to reproduce the output.
 - The code was written in stream of consciousness jupyter notebooks which made them difficult to understand. 
 
 One should keep these issues in mind when looking at the original files. The notebooks are kept in the legacy_code subfolder. The output of this project is analyzed by scripts contained in the pk_main repository on Aaron's github. 
